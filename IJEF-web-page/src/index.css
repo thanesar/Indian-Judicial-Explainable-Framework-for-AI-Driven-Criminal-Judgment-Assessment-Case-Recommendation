@@ -1,0 +1,19 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/* Add smooth color transition for buttons */
+button {
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+/* Hover animation */
+button:hover {
+  transform: translateY(-2px);
+}
