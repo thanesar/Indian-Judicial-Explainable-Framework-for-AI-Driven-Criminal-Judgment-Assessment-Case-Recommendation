@@ -4,7 +4,7 @@
 
 An AI-driven framework for criminal case recommendation and judgment prediction using past precedents, legal acts, and sections — with transparency through explainable AI.
 
-![IJEF Architecture](assets/ijef-architecture.png)
+![IJEF Architecture](https://raw.githubusercontent.com/thanesar/Indian-Judicial-Explainable-Framework-for-AI-Driven-Criminal-Judgment-Assessment-Case-Recommendation/main/IJEF%20Architecture.png)
 
 
 ---
