@@ -22,11 +22,11 @@ The primary objectives of IJEF are:
 
 ## 💻 Tech Stack
 
-- **Python 3.x**
-- **Transformers (HuggingFace)**
-- **Chroma / FAISS** – for vector similarity search
+- **Python 3**
+- **BERT Transformer (HuggingFace)**
+- **Chroma DB and FAISS** – for vector similarity search
 - **SHAP & Captum** – for Explainable AI (XAI)
-- **Streamlit / Flask** – for UI (optional)
+- **React and Flask** – for Front End Developement
 - **RAG (Retrieval-Augmented Generation)** – for generating structured legal reasoning
 
 ---
@@ -36,6 +36,6 @@ The primary objectives of IJEF are:
 - **NyayaBERT**: A fine-tuned version of LegalBERT on Indian Legal Reasoning Dataset (ILRD).
 - **FAISS + Chroma Vector DB**: To store and retrieve embeddings of past legal cases and statutes.
 - **RAG Framework**: To generate structured legal justifications using retrieved precedents and acts.
-- **SHAP / Captum**: Post-hoc XAI tools used to justify model decisions via feature attribution.
+- **SHAP and Captum**: Post-hoc XAI tools used to justify model decisions via feature attribution.
 
 ---
