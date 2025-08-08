@@ -6,7 +6,7 @@ An AI-driven framework for criminal case recommendation and judgment prediction 
 
 ![IJEF Architecture](https://raw.githubusercontent.com/thanesar/Indian-Judicial-Explainable-Framework-for-AI-Driven-Criminal-Judgment-Assessment-Case-Recommendation/main/IJEF%20Architecture.png)
 
-
+Link for NayayaBERT Model - https://colab.research.google.com/drive/1EW0movyLSGBP6rMYG_QYW1RkWR7fkHsL#scrollTo=V64rmoAcGC-1
 ---
 
 ## 📌 Objectives
